@@ -7,30 +7,27 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1<br>
+- [x] Dica 1<br>
       1. Altere o pin number do seu chip. Este é um recurso que pode ser ativado em qualquer celular. Assim toda vez que ligar o celular um numero pin será solicitado, bloqueando suas funcionalidades.
        Isto impede que em caso de roubo , o ladrão tire o chip de seu celular para colocá-lo em outro desbloqueado. Abaixo segue as orientações. 
-  (https://www.minhaoperadora.com.br/2020/04/como-resgatar-os-codigos-pin-e-puk.html) 🔒
+  https://www.minhaoperadora.com.br/2020/04/como-resgatar-os-codigos-pin-e-puk.html 🔒
   
-- [x] Tarefa 2<br>
-  Mantenha seu dispositivo bloqueado com uma senha, padrão de desbloqueio ou reconhecimento de impressão digital. 🔒
+- [x] Dica 2<br>
+  Não deixe sua conta de e-mail configurada no celular, especialmente se ela for usada para o cadastro bancário. Caso seu celular seja roubado e o email usado no cadastro estiver configurado , o ladrão pode entrar na opção "Esqueci minha senha" onde normalmente é enviado um SMS e depois um e-mail. Crie um e-mail para uso no celular que não esteja configurado em nenhum cadastro. 🔒
   
-- [x] Tarefa 3<br>
-Instale um antivírus de confiança, preferencialmente uma versão paga para aproveitar todos os recursos. A maioria oferece em sua versão paga VPN , senha para aplicativos ,proteção contra roubos e podem ser instaladas em vários equipamentos. Com a senha para os aplicativos você terá uma segurança a mais, incluindo o caso de alguma situação onde você seja obrigado a desbloquear o celular. Eu uso o Kaspersky. Existem outros . 🔒
+- [x] Dica 3<br>
+Instale um antivírus de confiança, preferencialmente uma versão paga para aproveitar todos os recursos. A maioria oferece em sua versão paga VPN , senha para aplicativos ,proteção contra roubos e podem ser instaladas em vários equipamentos. A senha para aplicativos é uma opção muito interessante pois permite que o celular fique desbloqueado exigindo  um pin number caso deseje abrir alguma aplicação. Por exemplo KASPERSKY e BITDEFENDER. 🔒
 
-- [x] Tarefa 4<br>
-Seja cauteloso ao clicar em links em e-mails ou redes sociais, somente clique se tiver certeza absoluta da origem. 🔒
+- [x] Dica 4<br>
+Seja cauteloso ao clicar em links em e-mails ou redes sociais, somente clique se tiver certeza absoluta da origem. Cuidados com ofertas que pareçam ser muito boas. 🔒
 
-- [x] Tarefa 5<br>
-Não deixe sua conta de e-mail configurada no celular, especialmente se ela for usada para o cadastro bancário. Isto pode facilitar o ladrão a usar o procedimento de “esqueci minha senha” onde normalmente se utiliza uma mensagem SMS e um e-mail. 🔒
-
-- [x] Tarefa 6<br>
+- [x] Dica 5<br>
 Evite pegar boletos via redes sociais ou e-mails. Em vez disso, visite o site oficial e pegue a segunda via. 🔒
 
-- [x] Tarefa 7<br>
+- [x] Dica 6<br>
+Evite conectar-se a redes públicas de WI-FI . Caso utilize alguma não acesse serviços que possuem informações sigilosas , como bancos por exemplo. Caso precise use uma VPN ou faça a operação usando o acesso da sua operadora de telefonia .
+
+- [x] Dica 7<br>
 Verifique regularmente se há atualizações disponíveis para o sistema operacional do seu dispositivo, seja Android ou iOS. 🔒
 
-- [x] Tarefa 8<br>
-Evite conectar-se a redes Wi-Fi públicas não seguras. Se possível use VPNs ( a maioria dos antivirus pagos fornecem isto ) ou a rede de sua operadora.🔒
-
-
+- [x] Dica 7<br>
