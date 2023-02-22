@@ -12,7 +12,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Tarefa 1
   Altere o pin number do seu chip. Caso seu celular seja roubado , o ladrão pode tirar o chip e colocar em outro celular. 
   Mudando o pin number será necessário informar a senha. A única desvantagem é que toda vez que ligar o celular será necessário informar o pin number. 
-  Os pin number normalmente são padrão para cada operadora. Abaixo um link explicando
+  Os pin number normalmente são padrão para cada operadora. Abaixo um link explicando .
+  (https://www.minhaoperadora.com.br/2020/04/como-resgatar-os-codigos-pin-e-puk.html)
 - [x] Tarefa 2
   Mantenha seu dispositivo bloqueado com uma senha, padrão de desbloqueio ou reconhecimento de impressão digital.
 - [x] Tarefa 3
