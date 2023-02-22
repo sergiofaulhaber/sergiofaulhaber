@@ -8,9 +8,8 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Tarefa 1<br>
-  Altere o pin number do seu chip. Caso seu celular seja roubado , o ladrão pode tirar o chip e colocar em outro celular. 
-  Mudando o pin number será necessário informar a senha. A única desvantagem é que toda vez que ligar o celular será necessário informar o pin number. 
-  Os pin number normalmente são padrão para cada operadora. Abaixo um link explicando .
+      1. Altere o pin number do seu chip. Este é um recurso que pode ser ativado em qualquer celular. Assim toda vez que ligar o celular um numero pin será solicitado, bloqueando suas funcionalidades.
+       Isto impede que em caso de roubo , o ladrão tire o chip de seu celular para colocá-lo em outro desbloqueado. Abaixo segue as orientações. 
   (https://www.minhaoperadora.com.br/2020/04/como-resgatar-os-codigos-pin-e-puk.html) 🔒
   
 - [x] Tarefa 2<br>
