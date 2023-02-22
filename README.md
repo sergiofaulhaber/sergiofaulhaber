@@ -9,7 +9,7 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
+- [x] Tarefa 1<br>
   Altere o pin number do seu chip. Caso seu celular seja roubado , o ladrão pode tirar o chip e colocar em outro celular. 
   Mudando o pin number será necessário informar a senha. A única desvantagem é que toda vez que ligar o celular será necessário informar o pin number. 
   Os pin number normalmente são padrão para cada operadora. Abaixo um link explicando .
