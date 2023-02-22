@@ -1,4 +1,4 @@
-# Dicas segurança smartfone 🛡️
+# Algumas dicas de segurança para seu smartfone 🛡️
 
 > Lembre-se de que a segurança de seu dispositivo móvel é fundamental para proteger sua privacidade e informações pessoais. 
   Por isso, é sempre uma boa ideia seguir esses procedimentos e ser proativo quanto à segurança de seu celular.
@@ -28,6 +28,13 @@ Evite pegar boletos via redes sociais ou e-mails. Em vez disso, visite o site of
 Evite conectar-se a redes públicas de WI-FI . Caso utilize alguma não acesse serviços que possuem informações sigilosas , como bancos por exemplo. Caso precise use uma VPN ou faça a operação usando o acesso da sua operadora de telefonia .
 
 - [x] Dica 7<br>
-Verifique regularmente se há atualizações disponíveis para o sistema operacional do seu dispositivo, seja Android ou iOS. 🔒
+Evite pegar boletos via redes sociais ou e-mails. Em vez disso, visite o site oficial e pegue a segunda via . 🔒
 
-- [x] Dica 7<br>
+- [x] Dica 8<br>
+Ative a autenticação em duas etapas em todos os aplicativos que ofereçam essa opção. Principalmente GMAIL e redes sociais. 🔒
+
+- [x] Dica 9<br>
+Evite instalar aplicativos semelhantes aos que já vem instalado . Por exemplo aplicativo de camêras , leitura qr-code , etc. Muitos possuem malwares . 🔒
+
+- [x] Dica 10<br>
+Efetue cópias de segurança regulares de seus dados . Se possível, use além dos serviços oferecidos (google drive por exemplo) , backup local em computador.
