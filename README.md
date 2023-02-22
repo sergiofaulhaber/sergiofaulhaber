@@ -15,10 +15,10 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
   Os pin number normalmente são padrão para cada operadora. Abaixo um link explicando .
   (https://www.minhaoperadora.com.br/2020/04/como-resgatar-os-codigos-pin-e-puk.html)
   
-- [x] Tarefa 2
+- [x] Tarefa 2<br>
   Mantenha seu dispositivo bloqueado com uma senha, padrão de desbloqueio ou reconhecimento de impressão digital.
   
-- [x] Tarefa 3
+- [x] Tarefa 3<br>
 Instale um antivírus de confiança, preferencialmente uma versão paga para aproveitar todos os recursos. A maioria oferece em sua versão paga VPN , senha para aplicativos ,proteção contra roubos e podem ser instaladas em vários equipamentos. Com a senha para os aplicativos você terá uma segurança a mais, incluindo o caso de alguma situação onde você seja obrigado a desbloquear o celular. Eu uso o Kaspersky. Existem outros .
 
 - [ ] Tarefa 4
