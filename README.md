@@ -9,7 +9,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Dica 1<br>
       1. Altere o pin number do seu chip. Este é um recurso que pode ser ativado em qualquer celular. Assim toda vez que ligar o celular um numero pin será solicitado, bloqueando suas funcionalidades.
-       Isto impede que em caso de roubo , o ladrão tire o chip de seu celular para colocá-lo em outro desbloqueado. Abaixo segue as orientações. 
+       Isto impede que em caso de roubo , o ladrão tire o chip de seu celular para colocá-lo em outro desbloqueado. Abaixo segue as orientações.<br> 
   https://www.minhaoperadora.com.br/2020/04/como-resgatar-os-codigos-pin-e-puk.html 🔒
   
 - [x] Dica 2<br>
