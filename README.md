@@ -1,3 +1,1 @@
-Olá , o  Sérgio Faulhaber trabalhando na área de TI desde 1985. Estive na área de Infraestrutura durante os últimos anos e estou me aperfeiçoando em Cyber segurança. Resolvi criar repositórios no GITHUB para publicar idéias e sugestões nestas áreas.
-
-
+Olá , sou o Sérgio Faulhaber ,  trabalhando na área de TI desde 1985. Estive na área de Infraestrutura durante os últimos anos e estou me aperfeiçoando em Cybersegurança. Tenho estudado como hobby o uso de micro-controladores e MQTT no uso de Internet das Coisas. Resolvi criar repositórios no GITHUB para publicar idéias e dicas nestas áreas.
