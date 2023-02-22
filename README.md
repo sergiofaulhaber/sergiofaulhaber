@@ -1,6 +1,6 @@
 # Dicas segurança smartfone
 
-<img src="seg1.png" alt="exemplo imagem">
+<img src="Data_security_28.jpg">
 
 > Lembre-se de que a segurança de seu dispositivo móvel é fundamental para proteger sua privacidade e informações pessoais. 
   Por isso, é sempre uma boa ideia seguir esses procedimentos e ser proativo quanto à segurança de seu celular.
